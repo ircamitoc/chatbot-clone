@@ -7,7 +7,7 @@ function App() {
       <div className="sidebar">
         <div className="upperSide">
           <div className="upperSideTop">
-            <img src="{gptLogo}" alt="" className="logo" />
+            <img src={gptLogo} alt="" className="logo" />
             <span className="brand">ChatGPT</span>
             <button className="midBtn">
               <img src="" alt="" className="addBtn" />
